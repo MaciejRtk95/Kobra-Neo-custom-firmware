@@ -1,3 +1,9 @@
+## A new fork, not to be used, yet
+
+This is a new fork, still a work in progress, I haven't even touched the README other than this warning.
+
+The plan is to keep features I like, like linear advance, but do away with increasing max speeds and currents.
+
 ## Refined, Tuned and Updated Anycubic Kobra Neo Firmware     
 
 ### Custom Kobra Neo Firmware v1.3.3    
